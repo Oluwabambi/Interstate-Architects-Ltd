@@ -1,0 +1,37 @@
+.img-h {
+    height: 90%;
+    justify-content: space-between;
+}
+.contain {
+    width: 100%;
+}
+.contain img {
+    width: 100%;
+}
+.round-g {
+    width: 30px;
+    height: 30px;
+    background-color: #93d14f;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 3px;
+    color: white;
+}
+.w-flex1 {
+    width: 20%;
+}
+.w-flex2 {
+    width: 80%;
+}
+.first-w {
+    width: 100%;
+    margin-left: auto;
+    height: 85%;
+}
+.person-h {
+    height: 40%;
+}
+
+.off-width {
+    max-width: 250px;
+}
